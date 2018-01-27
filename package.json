@@ -34,7 +34,7 @@
         "url": "https://github.com/giantpune/node-merged-pool.git"
     },
     "dependencies": {
-        "giantpune-multi-hashing": "github:giantpune/node-multi-hashing@1.0.0",
+        "giantpune-multi-hashing": "*",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
