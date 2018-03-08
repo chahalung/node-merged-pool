@@ -34,7 +34,7 @@
         "url": "https://github.com/chahalung/node-merged-pool.git"
     },
     "dependencies": {
-        "chahalung-multi-hashing": "*",
+        "chahalung-multi-hashing": "git://github.com/chahalung/node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
